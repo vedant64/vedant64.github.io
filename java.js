@@ -1,0 +1,209 @@
+$(document).ready(function(){
+    $(".flip").click(function(){
+        $(".pan").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip0").click(function(){
+        $(".pan0").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip1").click(function(){
+        $(".pan1").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip2").click(function(){
+        $(".pan2").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip3").click(function(){
+        $(".pan3").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip31").click(function(){
+        $(".pan31").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip4").click(function(){
+        $(".pan4").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".flip41").click(function(){
+        $(".pan41").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip5").click(function(){
+        $(".pan5").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".flip51").click(function(){
+        $(".pan51").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip6").click(function(){
+        $(".pan6").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".flip61").click(function(){
+        $(".pan61").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip7").click(function(){
+        $(".pan7").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".flip71").click(function(){
+        $(".pan71").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".flip8").click(function(){
+        $(".pan8").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".flip81").click(function(){
+        $(".pan81").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f1").click(function(){
+        $(".p1").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f11").click(function(){
+        $(".p11").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f12").click(function(){
+        $(".p12").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f13").click(function(){
+        $(".p13").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f14").click(function(){
+        $(".p14").slideToggle("slow");
+    });
+})
+$(document).ready(function(){
+    $(".f2").click(function(){
+        $(".p2").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f21").click(function(){
+        $(".p21").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f22").click(function(){
+        $(".p22").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f23").click(function(){
+        $(".p23").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f24").click(function(){
+        $(".p24").slideToggle("slow");
+    });
+})
+$(document).ready(function(){
+    $(".f3").click(function(){
+        $(".p3").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f31").click(function(){
+        $(".p31").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f32").click(function(){
+        $(".p32").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f33").click(function(){
+        $(".p33").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f34").click(function(){
+        $(".p34").slideToggle("slow");
+    });
+})
+$(document).ready(function(){
+    $(".f4").click(function(){
+        $(".p4").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f41").click(function(){
+        $(".p41").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f42").click(function(){
+        $(".p42").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f43").click(function(){
+        $(".p43").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f5").click(function(){
+        $(".p5").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f51").click(function(){
+        $(".p51").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f52").click(function(){
+        $(".p52").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f61").click(function(){
+        $(".p61").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f62").click(function(){
+        $(".p62").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f63").click(function(){
+        $(".p63").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f7").click(function(){
+        $(".p7").slideToggle("slow");
+    });
+});$(document).ready(function(){
+    $(".f71").click(function(){
+        $(".p71").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f72").click(function(){
+        $(".p72").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $(".f73").click(function(){
+        $(".p73").slideToggle("slow");
+    });
+});
